@@ -1,0 +1,5 @@
+[16-Nov-2016 10:54:35 UTC] PHP Fatal error:  Class 'kartik\select2\Select2' not found in /home/tiyodevops/public_html/tiyo1/backend/views/category/_form.php on line 37
+[16-Nov-2016 10:55:59 UTC] PHP Fatal error:  Class 'kartik\select2\Select2' not found in /home/tiyodevops/public_html/tiyo1/backend/views/category/_form.php on line 37
+[16-Nov-2016 10:56:06 UTC] PHP Fatal error:  Class 'kartik\select2\Select2' not found in /home/tiyodevops/public_html/tiyo1/backend/views/category/_form.php on line 37
+[16-Nov-2016 10:56:21 UTC] PHP Fatal error:  Class 'kartik\select2\Select2' not found in /home/tiyodevops/public_html/tiyo1/backend/views/category/_form.php on line 37
+[16-Nov-2016 10:58:39 UTC] PHP Fatal error:  Class 'kartik\select2\Select2' not found in /home/tiyodevops/public_html/tiyo1/backend/views/category/_form.php on line 37
